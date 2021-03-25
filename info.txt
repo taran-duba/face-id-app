@@ -1,0 +1,7 @@
+Model URL: https://teachablemachine.withgoogle.com/models/lWRFr9aR6/model.json
+Call API of Teachable Machine through ml5.js and ml5.version URL
+Links Required: {
+	Bootstrap.status: check
+	ml5.js.status: check
+	p5.js.status: check
+}

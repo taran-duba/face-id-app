@@ -1,0 +1,19 @@
+.header {
+    padding: 10px;
+    border: lightskyblue 3px solid;
+    background-color: lightskyblue;
+    text-align: center;
+    border-radius: 10px;
+    width: 275px;
+    height: fit-content;
+    margin: auto;
+}
+.container {
+    padding-top: 20px;
+}
+canvas {
+    border: 5px solid white;
+    border: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
